@@ -34,6 +34,7 @@
 	   }(document, 'script', 'facebook-jssdk'));
 	</script>
 	```
+	
    - Go to 'App Review' and make your app 'Public' by clicking the button under the 'Make [APPNAME] public?'.
 
 3. Include fancybox 2 (not 3, but needs update as the developers of fancybox may deprecate v2.). But for this v2 will be fine. if you're going to use 3, then the rest of the code in the following steps may not work.
