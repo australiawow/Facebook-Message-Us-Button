@@ -13,6 +13,7 @@
    - Choose a Category in the dropdown for the App.
    - Add Platform by clicking the '+ Add Platform' button then choose 'Website' and enter the Site URL. eg. https://nathanhague.com
    - Click on the 'Quick Start' button on the Website Platform created. It will take you then to the 'Setup the Facebook SDK for JavaScript' page. Just Copy the given snippet and paste it after the opening <body> tag on each page you want to load it.
+   - Go to 'App Review' and make your app 'Public' by clicking the button under the 'Make [APPNAME] public?'.
      #### Sample Snippet
      ```
      <script></script>
@@ -36,8 +37,6 @@
 	     fjs.parentNode.insertBefore(js, fjs);
 	   }(document, 'script', 'facebook-jssdk'));
 	```
-	
-   - Go to 'App Review' and make your app 'Public' by clicking the button under the 'Make [APPNAME] public?'.
 
 3. Include fancybox 2 (not 3, but needs update as the developers of fancybox may deprecate v2.). But for this v2 will be fine. if you're going to use 3, then the rest of the code in the following steps may not work.
    
