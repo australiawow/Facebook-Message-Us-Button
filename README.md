@@ -14,7 +14,7 @@
    - Add Platform by clicking the '+ Add Platform' button then choose 'Website' and enter the Site URL. eg. https://nathanhague.com
    - Click on the 'Quick Start' button on the Website Platform created. It will take you then to the 'Setup the Facebook SDK for JavaScript' page. Just Copy the given snippet and paste it after the opening <body> tag on each page you want to load it.
      #### Sample Snippet
-     ```javascript
+     --javascript
      
      <script>
 	  window.fbAsyncInit = function() {
@@ -34,9 +34,7 @@
 	     fjs.parentNode.insertBefore(js, fjs);
 	   }(document, 'script', 'facebook-jssdk'));
 	</script>
-	
-	
-	```
+	--
 	
    - Go to 'App Review' and make your app 'Public' by clicking the button under the 'Make [APPNAME] public?'.
 
