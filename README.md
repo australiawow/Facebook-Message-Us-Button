@@ -1,4 +1,4 @@
-## Facebook-Message-Us-Button
+## Facebook Message Us Button
 
 ### Documentation Guidelines
 
